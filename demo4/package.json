@@ -1,0 +1,38 @@
+{
+  "devDependencies": {
+    "file-loader": "^0.11.2",
+    "url-loader": "^0.5.9"
+  },
+  "name": "demo4",
+  "version": "1.0.0",
+  "description": "np",
+  "main": "main.js",
+  "dependencies": {
+    "_big.js@3.1.3@big.js": "^3.1.3",
+    "_json5@0.5.1@json5": "^0.5.1",
+    "_emojis-list@2.1.0@emojis-list": "^2.1.0",
+    "_file-loader@0.11.2@file-loader": "^0.11.2",
+    "_mime@1.3.6@mime": "^1.3.6",
+    "_loader-utils@1.1.0@loader-utils": "^1.1.0",
+    "_url-loader@0.5.9@url-loader": "^0.5.9",
+    "big.js": "^3.1.3",
+    "emojis-list": "^2.1.0",
+    "loader-utils": "^1.1.0",
+    "file-loader": "^0.11.2",
+    "json5": "^0.5.1",
+    "mime": "^1.3.6",
+    "url-loader": "^0.5.9"
+  },
+  "scripts": {
+    "test": "np"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "keywords": [
+    "no"
+  ],
+  "author": "zj",
+  "license": "ISC"
+}
